@@ -1,10 +1,8 @@
-# AccessModifiersDemo
+Access Modifers
 
-					
-					
-					
-					
-					
-					
-					
-![image](https://github.com/user-attachments/assets/2ea867bd-5799-457b-85a8-c0c637964cae)
+1.) Private
+2.) Public
+3.) Protected
+4.) Internal
+5.) Protected Internal
+6.) Private Protected
