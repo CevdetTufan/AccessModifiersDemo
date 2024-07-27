@@ -7,9 +7,9 @@
 			//this.PrivateMethod(); // This will not work as PrivateMethod is private
 			this.PublicMethod();
 			this.ProtectedMethod();
-			//this.InternalMethod(); // This will not work as InternalMethod is internal
+			this.InternalMethod();
 			this.ProtectedInternalMethod();
-			//this.PrivateProtectedMethod(); // This will not work as PrivateProtectedMethod is private protected
+			this.PrivateProtectedMethod(); 
 		}
 	}
 }

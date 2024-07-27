@@ -9,8 +9,8 @@
 			//accessModifierDemo.PrivateMethod();  // This will not work as PrivateMethod is private
 			accessModifierDemo.PublicMethod();
 			//accessModifierDemo.ProtectedMethod(); // This will not work as ProtectedMethod is protected
-			//accessModifierDemo.InternalMethod(); // This will not work as InternalMethod is internal
-			//accessModifierDemo.ProtectedInternalMethod(); // This will not work as ProtectedInternalMethod is protected internal
+			accessModifierDemo.InternalMethod();
+			accessModifierDemo.ProtectedInternalMethod();
 			//accessModifierDemo.PrivateProtectedMethod(); // This will not work as PrivateProtectedMethod is private protected
 		}
 	}
