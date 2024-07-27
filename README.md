@@ -8,4 +8,5 @@ Access Modifers
 6.) Private Protected
 
 
-![image](https://github.com/user-attachments/assets/a92b5369-a8ec-4703-81ea-5d3b9c174b80)
+![image](https://github.com/user-attachments/assets/5319acf6-7e73-4359-bb72-39b8b8732e9f)
+
